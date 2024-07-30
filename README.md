@@ -17,9 +17,9 @@ Welcome to the GoodLyfe repository! This Flutter app is designed to help users s
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+#![Screenshot 1](screenshots/screenshot1.png)
+#![Screenshot 2](screenshots/screenshot2.png)
+#![Screenshot 3](screenshots/screenshot3.png)
 
 ## Getting Started
 
@@ -36,6 +36,12 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```sh
    git clone https://github.com/your-repo/goodlyfe
 2. Navigate to the project directory:
-  ```sh
-  cd goodlyfe
-
+   ```sh
+   cd goodlyfe
+3. Install dependencies:
+   ```sh
+   flutter pub get
+4. Run the app:
+   ```sh
+   flutter run
+   
