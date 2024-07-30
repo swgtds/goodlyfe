@@ -1,4 +1,4 @@
-      ```markdown
+```markdown
 # GoodLyfe
 
 Welcome to the GoodLyfe repository! This Flutter app is designed to help users self-identify their mental health status using established psychiatric tools and questionnaires. Our goal is to provide a user-friendly platform for mental health awareness and early intervention.
@@ -74,6 +74,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or collaborations, feel free to open an issue or contact us directly.
 
 Join us in promoting mental health awareness and support!
-```
+
 
 Feel free to customize and expand the README as necessary to fit the specifics of your project and team.
