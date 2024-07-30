@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762443260317",
+    "project_id": "goodlyfe-project-sbh",
+    "storage_bucket": "goodlyfe-project-sbh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762443260317:android:9c598c3d8716caa58c8f74",
+        "android_client_info": {
+          "package_name": "com.example.goodlyfe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGdrRszpHnuhuVkGj0pyjCbkT2D1ssbHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
