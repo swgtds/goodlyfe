@@ -80,6 +80,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or collaborations, feel free to open an issue or contact us directly.
 
 Join us in promoting mental health awareness and support!
-```
 
 Feel free to customize and expand the README as necessary to fit the specifics of your project and team.
