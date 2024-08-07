@@ -18,9 +18,7 @@ Welcome to the GoodLyfe repository! This Flutter app is designed to help users s
 
 ## Screenshots
 
-![Splash Screen](screenshots/splash-screen.jpg)
-![Sign Up Screen](screenshots/sign-up-page.jpg)
-![Login Screen](screenshots/login-page.jpg)
+![Splash Screen](screenshots/splash-screen.jpg) ![Sign Up Screen](screenshots/sign-up-page.jpg)![Login Screen](screenshots/login-page.jpg)
 
 ## Getting Started
 
